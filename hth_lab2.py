@@ -1,25 +1,21 @@
 # Hello World 
-
 print("Hello World")
 
 # String 
 name = "Lebron"
 
 # Integer  
-
 age = 35
 
 # Floating Point 
-
 salary = 37.44
 
 # Boolean
-
 plays_basketball = True
 
 # String
- 
 jersey_number = "23"
+
 car_name = "Tesla"
 x = 50
 my_first_name = "Junyi"
